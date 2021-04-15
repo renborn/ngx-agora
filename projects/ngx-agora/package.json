@@ -5,13 +5,13 @@
   "peerDependencies": {
     "@angular/common": "^8.0.0",
     "@angular/core": "^8.0.0",
-    "agora-rtc-sdk": "^2.6.1"
+    "agora-rtc-sdk": "^3.5.1"
   },
   "description": "Angular wrapper for Agora RTC client (https://www.agora.io/en/)",
   "main": "ngx-agora.module.ts",
   "devDependencies": {
     "@angular/cdk": "^8.0.0",
-    "agora-rtc-sdk": "^3.0.2"
+    "agora-rtc-sdk": "^3.5.1"
   },
   "scripts": {
     "test": "test",
